@@ -1,0 +1,60 @@
+{
+
+"version": 9,
+"message": "เวอร์ชันไฟล์: 9 \nมีอะไรใหม่ \nแก้ไขเวลาเพิ่ม 24 ชั่วโมง😘",
+"fileUrl": "https://github.com/AdMimSKY/v2ray/raw/refs/heads/main/filetonkla.json",
+
+"RewardAmount": 24,
+
+"messageWarning":"มีอะไรใหม่ ?\n• อัปเดต UI \n• เพิ่มฟังก์ชัน Hotshare \n• แก้ไขข้อบกพร่องและอื่นๆ อีกมากมาย\n \nขอบคุณที่เข้าใจ❤️",
+"title":"ไม่สามารถใช้เวอร์ชันปัจจุบันต่อได้ คุณต้องอัปเกรด ",
+"link":"https://play.google.com/store/apps/details?id=com.tktonkla.app",
+"website":"https://play.google.com/store/apps/details?id=com.tktonkla.app",
+"versionCode": 3,
+
+"files": [
+
+{
+
+         "name": "TH-FREE-01",
+
+         "url": "http://141.98.18.205:82/server/online_app.json"
+
+      },
+
+  {
+
+         "name": "TH-FREE-02",
+
+         "url": "http://117.18.127.156:82/server/online_app.json"
+
+      },
+
+  {
+
+         "name": "TH-FREE-03",
+
+         "url": "http://117.18.127.149:82/server/online_app.json"
+
+      },
+
+  {
+
+         "name": "TH-FREE-04",
+
+         "url": "http://117.18.127.149:82/server/online_app.json"
+
+      },
+
+  {
+
+         "name": "TH-FREE-05",
+
+         "url": "http://117.18.127.147:82/server/online_app.json"
+
+      }
+
+
+   ]
+  
+}
