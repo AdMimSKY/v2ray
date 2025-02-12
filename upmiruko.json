@@ -1,7 +1,7 @@
 {
 
-"version": 15,
-"message": "เวอร์ชันไฟล์: 15 \nมีอะไรใหม่ \nแก้ไขไฟล์ \nเพิ่มซิมมายโนโปร",
+"version": 16,
+"message": "เวอร์ชันไฟล์: 16 \nมีอะไรใหม่ \nแก้ไขไฟล์ \nเพิ่มซิมมายโนโปร",
 "fileUrl": "https://github.com/AdMimSKY/v2ray/raw/refs/heads/main/filemiruko.json",
 
 "RewardAmount": 24,
@@ -18,42 +18,9 @@
 
          "name": "TH-FREE-01",
 
-         "url": "http://141.98.18.205:82/server/online_app.json"
+         "url": "http://103.22.183.184:82/server/online_app.json"
 
-      },
-
-  {
-
-         "name": "TH-FREE-02",
-
-         "url": "http://117.18.127.156:82/server/online_app.json"
-
-      },
-
-  {
-
-         "name": "TH-FREE-03",
-
-         "url": "http://117.18.127.149:82/server/online_app.json"
-
-      },
-
-  {
-
-         "name": "TH-FREE-04",
-
-         "url": "http://117.18.127.149:82/server/online_app.json"
-
-      },
-
-  {
-
-         "name": "TH-FREE-05",
-
-         "url": "http://117.18.127.147:82/server/online_app.json"
-
-      }
-
+}
 
    ]
   
