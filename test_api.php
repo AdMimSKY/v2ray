@@ -10,7 +10,7 @@ $signature = hash("sha256", $NMRUN_APP . $secretKey);
 
 // 🔥 ส่งข้อมูลกลับไปให้แอป
 $response = [
-    "nmrun_app" => $NMRUN_APP,
+    "NMRUN_APP" => $NMRUN_APP,
     "signature" => $signature
 ];
 
